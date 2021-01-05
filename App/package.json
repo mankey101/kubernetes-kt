@@ -1,0 +1,11 @@
+{
+  "name": "container-kts",
+  "private": true,
+  "version": "0.0.2",
+  "description": "Demo app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.17.1",
+    "pug": "2.0.4"
+  }
+}
